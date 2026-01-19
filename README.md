@@ -97,7 +97,7 @@ It shows how the agent progresses through each node in a structured and determin
 The following diagram illustrates the sample output of the orchestration.
 
 <p align="center">
-  <img src="./Op.png" alt="Final Output" width="700"/>
+  <img src="./Op1.png" alt="Final Output" width="700"/>
 </p>
 
 
