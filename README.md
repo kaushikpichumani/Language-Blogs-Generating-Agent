@@ -47,7 +47,7 @@ Each node performs a dedicated responsibility, making the system modular, debugg
 pip install -U uv
 
 ## Clone Repo
-git clone https://github.com/kaushikpichumani/BlogGenerationAgent.git
+git clone https://github.com/kaushikpichumani/Language-Blogs-Generating-Agent.git
 cd BlogGenerationAgent
 
 ## Pin python version
